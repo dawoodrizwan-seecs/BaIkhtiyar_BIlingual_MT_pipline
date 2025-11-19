@@ -1,0 +1,19 @@
+{
+    "llm_engine_url": "http://localhost:11434/api/generate",
+    "global_settings": {
+        "data_folder": "data",
+        "result_folder": "results"
+    },
+    "models": {
+        "1": {
+            "name": "German -> English (Model GTE)",
+            "base_model": "GTE",
+            "file_suffix": "_en"
+        },
+        "2": {
+            "name": "German -> Urdu (Model GTU)",
+            "base_model": "GTU",
+            "file_suffix": "_ur"
+        }
+    }
+}
