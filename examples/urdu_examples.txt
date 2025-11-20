@@ -1,0 +1,15 @@
+--- Example 1 (System Functions - Page 8) ---
+German: Hauptfunktionen technischer Systeme umfassen die Energieumsetzung, Stoffumsetzung und Informationsumsetzung.
+Urdu: تکنیکی سسٹمز (Technical Systems) کے اہم افعال میں توانائی کی تبدیلی (Energy Conversion)، مادے کی تبدیلی (Material Conversion) اور معلومات کی تبدیلی (Information Conversion) شامل ہیں۔
+
+--- Example 2 (Legal Requirements - Page 6) ---
+German: Die Betriebserlaubnis bestätigt, dass das Fahrzeug der Straßenverkehrszulassungsordnung (StVZO) entspricht.
+Urdu: آپریٹنگ پرمٹ (Operating Permit) اس بات کی تصدیق کرتا ہے کہ گاڑی روڈ ٹریفک لائسنسنگ ریگولیشنز (StVZO) کے مطابق ہے۔
+
+--- Example 3 (Mechanics - Page 8) ---
+German: Wodurch eine Druckzunahme entsteht, die auf den Kolben wirkt und diesen nach unten drückt, wobei über Pleuelstange und Kurbelzapfen ein Drehmoment an der Kurbelwelle entsteht.
+Urdu: جس کے نتیجے میں دباؤ میں اضافہ (Pressure Increase) ہوتا ہے جو پسٹن (Piston) پر عمل کرتا ہے اور اسے نیچے کی طرف دھکیلتا ہے، جس سے کنیکٹنگ راڈ (Connecting Rod) اور کرینک پن کے ذریعے کرینک شافٹ (Crankshaft) پر ٹارک (Torque) پیدا ہوتا ہے۔
+
+--- Example 4 (Input/Output - Page 7) ---
+German: Jedes technische System ist gekennzeichnet durch die Eingabe (Eingangsgrößen), die Verarbeitung und die Ausgabe (Ausgangsgrößen).
+Urdu: ہر تکنیکی سسٹم کی شناخت ان پٹ (Input Variables)، پروسیسنگ (Processing) اور آؤٹ پٹ (Output Variables) سے ہوتی ہے۔

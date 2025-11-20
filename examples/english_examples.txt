@@ -1,0 +1,15 @@
+--- Example 1 (Legal/Regulations - Page 6) ---
+German: Kraftfahrzeuge dürfen im öffentlichen Straßenverkehr nur benutzt werden, wenn die folgenden gesetzlichen Voraussetzungen erfüllt sind: Der Fahrzeugführer muss eine Fahrerlaubnis für das Fahrzeug besitzen.
+English: Motor vehicles may only be used in public road traffic if the following legal requirements are met: The vehicle operator must possess a driver's license for the vehicle.
+
+--- Example 2 (System Theory - Page 7) ---
+German: Das Ziel der Systembetrachtung ist es, ein technisches System soweit zu zerlegen, dass eine übersichtliche Darstellung und Untersuchung (Analyse) des technischen Systems möglich ist.
+English: The goal of the system analysis is to decompose a technical system to such an extent that a clear representation and investigation (analysis) of the technical system becomes possible.
+
+--- Example 3 (Energy Conversion - Page 8) ---
+German: Chemische Energie im Verbrennungsmotor wird zuerst in Wärmeenergie und dann in mechanische Energie umgewandelt.
+English: Chemical energy in the internal combustion engine is first converted into thermal energy and then into mechanical energy.
+
+--- Example 4 (System Boundaries - Page 7) ---
+German: Die Systemgrenze (gedachte Grenze) trennt ein technisches System von anderen technischen Systemen und/oder von seiner Umgebung ab.
+English: The system boundary (imaginary boundary) separates a technical system from other technical systems and/or from its environment.

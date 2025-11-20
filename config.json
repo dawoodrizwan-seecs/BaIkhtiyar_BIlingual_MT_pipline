@@ -6,14 +6,20 @@
     },
     "models": {
         "1": {
-            "name": "German -> English (Model GTE)",
-            "base_model": "GTE",
-            "file_suffix": "_en"
+            "id": "english_expert",
+            "name": "German -> English (Vocational Expert)",
+            "base_model": "qwen2.5:14b",
+            "file_suffix": "_en",
+            "prompt_file": "prompts/english_expert.txt",
+            "example_file": "examples/english_examples.txt"
         },
         "2": {
-            "name": "German -> Urdu (Model GTU)",
-            "base_model": "GTU",
-            "file_suffix": "_ur"
+            "id": "urdu_expert",
+            "name": "German -> Urdu (Vocational Expert)",
+            "base_model": "qwen2.5:14b",
+            "file_suffix": "_ur",
+            "prompt_file": "prompts/urdu_expert.txt",
+            "example_file": "examples/urdu_examples.txt"
         }
     }
 }
